@@ -1,0 +1,1 @@
+This project was made on the Technology Inteligence Platform  provided by EPO. The platform can be acessed by registering [here](https://www.epo.org/en/searching-for-patents/data/technology-intelligence-platform). The Data folder is unavailable because of github's single file size limits and will be posted only in its final iteration on a dropbox link. 

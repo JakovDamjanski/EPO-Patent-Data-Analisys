@@ -1,0 +1,180 @@
+ISIC Rev.4	Level of aggregation	Economic Activity
+A	2	Agriculture, forestry and fishing
+01	3	Crop and animal production, hunting and related service activities
+02	3	Forestry and logging
+03	3	Fishing and aquaculture
+B	2	Mining and quarrying
+05	3	Mining of coal and lignite
+06	3	Extraction of crude petroleum and natural gas
+07	3	Mining of metal ores
+08	3	Other mining and quarrying
+09	3	Mining support service activities
+10	2	Manufacture of food products
+101	3	Processing and preserving of meat
+102	3	Processing and preserving of fish, crustaceans and molluscs
+103	3	Processing and preserving of fruit and vegetables
+104	3	Manufacture of vegetable and animal oils and fats
+105	3	Manufacture of dairy products
+106	3	Manufacture of grain mill products, starches and starch products
+107	3	Manufacture of other food products
+108	3	Manufacture of prepared animal feeds
+11	2	Manufacture of beverages
+110	3	Manufacture of beverages
+12	2	Manufacture of tobacco products
+120	3	Manufacture of tobacco products
+13	2	Manufacture of textiles
+131	3	Spinning, weaving and finishing of textiles
+139	3	Manufacture of other textiles
+14	2	Manufacture of wearing apparel
+141	3	Manufacture of wearing apparel, except fur apparel
+142	3	Manufacture of articles of fur
+143	3	Manufacture of knitted and crocheted apparel
+15	2	Manufacture of leather and related products
+151	3	Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur
+152	3	Manufacture of footwear
+16	2	Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
+161	3	Sawmilling and planing of wood
+162	3	Manufacture of products of wood, cork, straw and plaiting materials
+17	2	Manufacture of paper and paper products
+170	3	Manufacture of paper and paper products
+18	2	Printing and reproduction of recorded media
+181	3	Printing and service activities related to printing
+182	3	Reproduction of recorded media
+19	2	Manufacture of coke and refined petroleum products
+191	3	Manufacture of coke oven products
+192	3	Manufacture of refined petroleum products
+20	2	Manufacture of chemicals and chemical products
+201	3	Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics and synthetic rubber in primary forms
+202	3	Manufacture of other chemical products
+203	3	Manufacture of man-made fibres
+21	2	Manufacture of pharmaceuticals, medicinal chemical and botanical products
+210	3	Manufacture of pharmaceuticals, medicinal chemical and botanical products
+22	2	Manufacture of rubber and plastics products
+221	3	Manufacture of rubber products
+222	3	Manufacture of plastics products
+23	2	Manufacture of other non-metallic mineral products
+231	3	Manufacture of glass and glass products
+239	3	Manufacture of non-metallic mineral products n.e.c.
+24	2	Manufacture of basic metals
+241	3	Manufacture of basic iron and steel
+242	3	Manufacture of basic precious and other non-ferrous metals
+243	3	Casting of metals
+25	2	Manufacture of fabricated metal products, except machinery and equipment
+251	3	Manufacture of structural metal products, tanks, reservoirs and steam generators
+252	3	Manufacture of weapons and ammunition
+259	3	Manufacture of other fabricated metal products; metalworking service activities
+26	2	Manufacture of computer, electronic and optical products
+261	3	Manufacture of electronic components and boards
+262	3	Manufacture of computers and peripheral equipment
+263	3	Manufacture of communication equipment
+264	3	Manufacture of consumer electronics
+265	3	Manufacture of measuring, testing, navigating and control equipment; watches and clocks
+266	3	Manufacture of irradiation, electromedical and electrotherapeutic equipment
+267	3	Manufacture of optical instruments and photographic equipment
+268	3	Manufacture of magnetic and optical media
+27	2	Manufacture of electrical equipment
+271	3	Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus
+272	3	Manufacture of batteries and accumulators
+273	3	Manufacture of wiring and wiring devices
+274	3	Manufacture of electric lighting equipment
+275	3	Manufacture of domestic appliances
+279	3	Manufacture of other electrical equipment
+28	2	Manufacture of machinery and equipment n.e.c.
+281	3	Manufacture of general-purpose machinery
+282	3	Manufacture of special-purpose machinery
+29	2	Manufacture of motor vehicles, trailers and semi-trailers
+291	3	Manufacture of motor vehicles
+292	3	Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+293	3	Manufacture of parts and accessories for motor vehicles
+30	2	Manufacture of other transport equipment
+301	3	Building of ships and boats
+302	3	Manufacture of railway locomotives and rolling stock
+303	3	Manufacture of air and spacecraft and related machinery
+304	3	Manufacture of military fighting vehicles
+309	3	Manufacture of transport equipment n.e.c.
+31	2	Manufacture of furniture
+310	3	Manufacture of furniture
+32	2	Other manufacturing
+321	3	Manufacture of jewellery, bijouterie and related articles
+322	3	Manufacture of musical instruments
+323	3	Manufacture of sports goods
+324	3	Manufacture of games and toys
+325	3	Manufacture of medical and dental instruments and supplies
+329	3	Other manufacturing n.e.c.
+33	2	Repair and installation of machinery and equipment
+331	3	Repair of fabricated metal products, machinery and equipment
+332	3	Installation of industrial machinery and equipment
+D	2	Electricity, gas, steam and air conditioning supply
+35	3	Electricity, gas, steam and air conditioning supply
+E	2	Water supply; sewerage, waste management and remediation activities
+36	3	Water collection, treatment and supply
+37	3	Sewerage
+38	3	Waste collection, treatment and disposal activities; materials recovery
+39	3	Remediation activities and other waste management services
+F	2	Construction
+41	3	Construction of buildings
+42	3	Civil engineering
+43	3	Specialized construction activities
+G	2	Wholesale and retail trade; repair of motor vehicles and motorcycles
+45	3	Wholesale and retail trade and repair of motor vehicles and motorcycles
+46	3	Wholesale trade, except of motor vehicles and motorcycles
+47	3	Retail trade, except of motor vehicles and motorcycles
+H	2	Transportation and storage
+49	3	Land transport and transport via pipelines
+50	3	Water transport
+51	3	Air transport
+52	3	Warehousing and support activities for transportation
+53	3	Postal and courier activities
+I	2	Accommodation and food service activities
+55	3	Accommodation
+56	3	Food and beverage service activities
+J	2	Information and communication
+58	3	Publishing activities
+59	3	Motion picture, video and television programme production, sound recording and music publishing activities
+60	3	Programming and broadcasting activities
+61	3	Telecommunications
+62	3	Computer programming, consultancy and related activities
+63	3	Information service activities
+K	2	Financial and insurance activities
+64	3	Financial service activities, except insurance and pension funding
+65	3	Insurance, reinsurance and pension funding, except compulsory social security
+66	3	Activities auxiliary to financial service and insurance activities
+L	2	Real estate activities
+68	3	Real estate activities
+M	2	Professional, scientific and technical activities
+69	3	Legal and accounting activities
+70	3	Activities of head offices; management consultancy activities
+71	3	Architectural and engineering activities; technical testing and analysis
+72	3	Scientific research and development
+73	3	Advertising and market research
+74	3	Other professional, scientific and technical activities
+75	3	Veterinary activities
+N	2	Administrative and support service activities
+77	3	Rental and leasing activities
+78	3	Employment activities
+79	3	Travel agency, tour operator, reservation service and related activities
+80	3	Security and investigation activities
+81	3	Services to buildings and landscape activities
+82	3	Office administrative, office support and other business support activities
+O	2	Public administration and defence; compulsory social security
+84	3	Public administration and defence; compulsory social security
+P	2	Education
+85	3	Education
+Q	2	Human health and social work activities
+86	3	Human health activities
+87	3	Residential care activities
+88	3	Social work activities without accommodation
+R	2	Arts, entertainment and recreation
+90	3	Creative, arts and entertainment activities
+91	3	Libraries, archives, museums and other cultural activities
+92	3	Gambling and betting activities
+93	3	Sports activities and amusement and recreation activities
+S	2	Other service activities
+94	3	Activities of membership organizations
+95	3	Repair of computers and personal and household goods
+96	3	Other personal service activities
+T	2	Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+97	3	Activities of households as employers of domestic personnel
+98	3	Undifferentiated goods- and services-producing activities of private households for own use
+U	2	Activities of extraterritorial organizations and bodies
+99	3	Activities of extraterritorial organizations and bodies
